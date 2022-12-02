@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scientist character
+* source:	https://sketchfab.com/3d-models/scientist-character-c08ffddf36ea435e898f6493583aad59
+* author:	smartinius (https://sketchfab.com/smartinius)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scientist character" (https://sketchfab.com/3d-models/scientist-character-c08ffddf36ea435e898f6493583aad59) by smartinius (https://sketchfab.com/smartinius) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
